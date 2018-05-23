@@ -1,0 +1,136 @@
+#top {
+	background-image: url(../images/top-2.jpg);
+	background-repeat: repeat-x;
+	margin: 0px;
+	padding: 0px;
+	float: left;
+	height: 85px;
+	width: 484px;
+	padding-top:7px;
+	text-align:right;
+}
+#search {
+	height: 30px;
+	width: 240px;
+	margin-top: 5px;
+	margin-right: 10px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	padding-top: 3px;
+	padding-right: 1px;
+	padding-bottom: 1px;
+	padding-left: 1px;
+	float:right;
+}
+#boxmiddle {
+	background-image: url(../images/box-middle.jpg);
+	background-repeat: repeat-x;
+	height: 82px;
+	width: 317px;
+}
+.subheading{
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#000000;
+	text-decoration:none;
+}
+.subtext{
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	font-weight:bold;
+	color:#0b5784;
+}
+.more{
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#f2690d;
+	text-decoration:none;
+}
+.more:hover{
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#0b5784;
+	text-decoration:none;
+}
+#subdiv {
+	height: 72px;
+	width: 200px;
+	padding-top:2px;
+}
+.text{
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#f2690d;
+	color:#000000;
+	line-height:170%;
+}
+
+#image {
+	background-image: url(../images/image1.jpg);
+	padding: 0px;
+	float: left;
+	height: 56px;
+	width: 71px;
+	background-repeat: no-repeat;
+	clear: right;
+}
+.footer{
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#f2690d;
+	color:#000000;
+	text-decoration:none;
+}
+.home{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	text-decoration:none;
+	font-weight:bold;
+}
+.home:hover{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#f2690d;
+	text-decoration:none;
+	font-weight:bold;
+}
+.subheading1{
+    font-family:Arial, Helvetica, sans-serif;
+	font-size:12px;
+	font-weight:bold;
+	color:#f2690d;
+	text-decoration:none;
+}
+.bodytext{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	color:#000000;
+	line-height:120%;
+}
+.bodytext2{
+    font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	color:#000000;
+	line-height:120%;
+}
+
+.page1 ul li{
+line-height:25px;
+}
+
+.top a
+{
+margin-left:110px;
+text-decoration:none;color:#287bba;font-weight:bold;font-size:14px;
+
+
+}
+.top a:hover
+{
+margin-left:110px;
+text-decoration:none;color:#003366;font-weight:bold;
+}
